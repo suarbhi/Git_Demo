@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="42" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="42" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSapp()[pri:0, instance:qaclickacademy.AppiumTest@47f6473]" name="IOSapp" duration-ms="0" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@47f6473]" name="nativeAppAndroid" duration-ms="1" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="deleteTestCaseTwitter()[pri:0, instance:qaclickacademy.APITest@90f6bfd]" name="deleteTestCaseTwitter" duration-ms="9" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTestCaseTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:qaclickacademy.APITest@90f6bfd]" name="postJira" duration-ms="0" started-at="2019-04-15T12:42:59Z" finished-at="2019-04-15T12:42:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacademy.APITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
